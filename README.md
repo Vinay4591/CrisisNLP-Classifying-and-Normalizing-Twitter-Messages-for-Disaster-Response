@@ -4,12 +4,12 @@ This notebook is based on the paper "Twitter as a Lifeline: Human-annotated Twit
 
 In this notebook, we:
 
-Explore the annotated datasets,
+1) Explore the annotated datasets,
 
-Train supervised models (Naive Bayes, LSTM) to classify crisis tweets,
+2) Train supervised models (Naive Bayes, LSTM) to classify crisis tweets,
 
-Utilize GLOVE embeddings, and
+3) Utilize GLOVE embeddings, and
 
-Demonstrate techniques for normalizing informal or noisy Twitter text (OOV terms).
+4) Demonstrate techniques for normalizing informal or noisy Twitter text (OOV terms).
 
 These tools aim to support timely and effective information extraction from social media during disasters to aid humanitarian efforts.
